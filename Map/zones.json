@@ -2124,6 +2124,7 @@
     { "name": "Tae Ew"                        , "x":  9531, "y": 12616, "category": "camp", "levelRange": "1-1", "icon": "users", "style": {"color":"#f1f5f9"} },
     { "name": "Tae Ew"                        , "x":  9531, "y": 12821, "category": "camp", "levelRange": "1-1", "icon": "users", "style": {"color":"#f1f5f9"} },
     { "name": "Urthax Fleshrend"              , "x":  9530, "y": 12839, "category": "rare-mob", "icon": "map-marker", "style": {"color":"#f1f5f9"} },
-    { "name": "The Bone Crusher"              , "x":  9844, "y": 13015, "category": "other", "icon": "map-marker", "style": {"color":"#f1f5f9"} }
+    { "name": "The Bone Crusher"              , "x":  9844, "y": 13015, "category": "other", "icon": "map-marker", "style": {"color":"#f1f5f9"} },
+    { "name": "SCARECROWS"                    , "x":  7457, "y":  6209, "category": "camp", "levelRange": "21-31", "icon": "users", "style": {"color":"#f1f5f9"} }
   ]
 }
