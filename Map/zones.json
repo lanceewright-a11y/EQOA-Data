@@ -1644,7 +1644,7 @@
     { "name": "Undead"                        , "x": 13127, "y":  6525, "category": "camp", "levelRange": "17-20", "note": "Northern Ro (NW/SW). Two undead camps offering reliable experience. Clerics excel here.", "icon": "users", "style": {"color":"#f1f5f9"} },
     { "name": "Chief Kimlosh"                 , "x": 12784, "y":  6858, "category": "rare-mob", "icon": "map-marker", "style": {"color":"#f1f5f9"} },
     { "name": "Deathfist Legionaires"         , "x": 12789, "y":  6869, "category": "camp", "levelRange": "1-1", "icon": "users", "style": {"color":"#f1f5f9"} },
-    { "name": "Deathfist Myrmidons"           , "x": 12096, "y":  7287, "category": "camp", "levelRange": "1-1", "icon": "users", "style": {"color":"#f1f5f9"} },
+    { "name": "Deathfist Myrmidons"           , "x": 12096, "y":  7287, "category": "camp", "levelRange": "28-32", "icon": "users", "style": {"color":"#f1f5f9"} },
     { "name": "Deathfist Champions"           , "x": 11659, "y":  7213, "category": "camp", "levelRange": "1-1", "icon": "map-marker", "style": {"color":"#f1f5f9"} },
     { "name": "Deathfist Reavers"             , "x": 11608, "y":  7180, "category": "camp", "levelRange": "1-1", "icon": "map-marker", "style": {"color":"#f1f5f9"} },
     { "name": "Deathfist Slayers"             , "x": 11615, "y":  7133, "category": "camp", "levelRange": "1-1", "icon": "users", "style": {"color":"#f1f5f9"} },
