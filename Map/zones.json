@@ -2126,6 +2126,7 @@
     { "name": "Urthax Fleshrend"              , "x":  9530, "y": 12839, "category": "rare-mob", "icon": "map-marker", "style": {"color":"#f1f5f9"} },
     { "name": "The Bone Crusher"              , "x":  9844, "y": 13015, "category": "other", "icon": "map-marker", "style": {"color":"#f1f5f9"} },
     { "name": "SCARECROWS"                    , "x":  7457, "y":  6209, "category": "camp", "levelRange": "21-31", "icon": "users", "style": {"color":"#f1f5f9"} },
-    { "name": "Bandit"                        , "x":  7561, "y":  6288, "category": "camp", "levelRange": "29-29", "icon": "users", "style": {"color":"#f1f5f9"} }
+    { "name": "Bandit"                        , "x":  7561, "y":  6288, "category": "camp", "levelRange": "29-29", "icon": "users", "style": {"color":"#f1f5f9"} },
+    { "name": "Slesher Gnoll Camp"            , "x":  6651, "y":  4713, "category": "camp", "levelRange": "25-29", "icon": "users", "style": {"color":"#f1f5f9"} }
   ]
 }
