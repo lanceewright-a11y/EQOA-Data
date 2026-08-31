@@ -1986,7 +1986,7 @@
     { "name": "Demetricus"                    , "x":  4822, "y":  7420, "category": "quest", "questGuideIds": ["misc/stat-boost-quests"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Sylanthia De'Crevast"          , "x": 11951, "y":  3059, "category": "quest", "questGuideIds": ["misc/stat-boost-quests"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Yiggua"                        , "x": 13368, "y": 12702, "category": "quest", "questGuideIds": ["misc/stat-boost-quests"], "icon": "map-marker", "style": {"color":"#a855f7"} },
-    { "name": "Shuglug"                       , "x": 12852, "y": 12802, "category": "quest", "questGuideIds": ["misc/stat-boost-quests"], "icon": "map-marker", "style": {"color":"#a855f7"} },
+    { "name": "Shuglug"                       , "x": 13702, "y": 12249, "category": "quest", "questGuideIds": ["misc/stat-boost-quests"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Farmer Rulug"                  , "x":  8612, "y": 11802, "category": "quest", "questGuideIds": ["misc/stat-boost-quests"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
     { "name": "hearty boars"                  , "x":  5534, "y":  7458, "category": "quest", "questGuideIds": ["misc/stat-boost-quests"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Fripz"                         , "x":  7667, "y": 12068, "category": "quest", "questGuideIds": ["misc/stat-boost-quests"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
