@@ -1995,7 +1995,7 @@
     { "name": "Bartender"                     , "x":  8142, "y":  3573, "category": "quest", "questGuideIds": ["misc/stat-boost-quests"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
     { "name": "Waitress Jitzie"               , "x":  8135, "y":  3573, "category": "quest", "questGuideIds": ["misc/stat-boost-quests"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
     { "name": "Roerx"                         , "x":  8134, "y":  3567, "category": "quest", "questGuideIds": ["misc/stat-boost-quests"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
-    { "name": "Agead"                         , "x": 13683, "y":  5460, "category": "quest", "questGuideIds": ["misc/stat-boost-quests"], "icon": "map-marker", "style": {"color":"#a855f7"} },
+    { "name": "Agead"                         , "x": 13651, "y":  5442, "category": "quest", "questGuideIds": ["misc/stat-boost-quests"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Aryee"                         , "x": 13046, "y":  6150, "category": "quest", "questGuideIds": ["misc/stat-boost-quests"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Mayssa Deathkiss"              , "x": 10509, "y": 12906, "category": "quest", "questGuideIds": ["23-47/37"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
     { "name": "Golem (40)"                    , "x": 10940, "y": 12935, "category": "quest", "questGuideIds": ["30-40-49/group-4-evil"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
