@@ -1107,7 +1107,7 @@
     { "name": "Historian Hesslen (49)"        , "x":  9627, "y":  5412, "category": "quest", "questGuideIds": ["30-40-49/group-6-evil"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
     { "name": "Overlord Frank (49)"           , "x": 11902, "y":  8337, "category": "quest", "questGuideIds": ["30-40-49/group-6-evil"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Xannasu (49)"                  , "x": 12533, "y":  8976, "category": "quest", "questGuideIds": ["30-40-49/group-6-evil"], "icon": "map-marker", "style": {"color":"#a855f7"} },
-    { "name": "Lantik (49)"                   , "x": 11846, "y":  7779, "category": "quest", "questGuideIds": ["30-40-49/group-6-evil"], "icon": "map-marker", "style": {"color":"#a855f7"} },
+    { "name": "Lantik (49)"                   , "x": 11704, "y":  7805, "category": "quest", "questGuideIds": ["30-40-49/group-6-evil"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Recruiter"                     , "x": 13551, "y":  5633, "category": "quest", "questGuideIds": ["60/evil-caster","60/evil-healer","60/evil-melee","60/evil-tank"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
     { "name": "Animator Jen'Tylis"            , "x": 12296, "y":  3416, "category": "quest", "questGuideIds": ["60/evil-caster"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
     { "name": "Taksehir Miners"               , "x": 12756, "y": 10103, "category": "camp", "levelRange": "1-1", "icon": "users", "style": {"color":"#f1f5f9"} },
