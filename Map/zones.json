@@ -2082,6 +2082,7 @@
     { "name": "Mestre da Forja"               , "x": 11274, "y": 12984, "category": "quest", "questGuideIds": ["misc/highbourne-for-the-ring"], "icon": "Exclamation", "style": {"color":"#f1f5f9"} },
     { "name": "Phoborium"                     , "x": 10459, "y":  4889, "category": "quest", "questGuideIds": ["23-47/35"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Merkans"                       , "x":   937, "y": 11911, "category": "camp", "levelRange": "28-35", "icon": "users", "style": {"color":"#f1f5f9"} },
-    { "name": "Xannasu (Trigger Spot)"        , "x": 12585, "y":  8962, "category": "other", "icon": "asterisk", "style": {"color":"#a855f7"} }
+    { "name": "Xannasu (Trigger Spot)"        , "x": 12585, "y":  8962, "category": "other", "icon": "asterisk", "style": {"color":"#a855f7"} },
+    { "name": "Tomb Stone Level 15 Quest"     , "x": 12433, "y":  2337, "category": "quest", "questGuideIds": ["1-20/klick-a-non/cleric"], "icon": "star-fill", "style": {"color":"#f1f5f9"} }
   ]
 }
